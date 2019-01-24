@@ -2,7 +2,6 @@ const loadGoogleMapsApi = require('load-google-maps-api');
 
 class Map {
   static loadGoogleMapsApi() {
-    console.log("key", process.env.GOOGLEMAPS_KEY);
     return loadGoogleMapsApi({ key: process.env.GOOGLEMAPS_KEY });
   }
 
