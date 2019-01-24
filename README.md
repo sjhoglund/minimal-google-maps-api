@@ -34,13 +34,15 @@ npm run winstart
 ```
 It should open the application in a browser window at the address **localhost:8080**, where you can test out the app. You should see something like this:
 
+![ScreenShot](/img/screenShot.png)
+
 ## Support and Contact Details
 
 If you have any issues or questions, please email me at philrmass@gmail.com
 
 ## Technologies
 
-_Created using JavaScript. Built with Webpack, Babel, ESLint, DotEnv, and the l0ad-google-maps-api package_
+_Created using JavaScript. Built with Webpack, Babel, ESLint, DotEnv, and the load-google-maps-api package_
 
 ## Legal
 
